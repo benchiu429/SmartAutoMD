@@ -16,7 +16,7 @@ if screenWidth != 1920 or screenHeight != 1080:
 teams = {
     "Sinking": ["YiSang", "Heathcliff", "Ishmael", "Rodya", "Gregor", "HongLu", "Outis", "Ryoshu", "Don", "Meursault", "Sinclair", "Faust"],
     "Charge": ["YiSang", "Faust", "Don", "Ryoshu", "Heathcliff", "Outis", "Meursault", "Ishmael", "HongLu", "Sinclair", "Rodya", "Gregor"],
-    "Bleed": ["Don", "YiSang", "Rodya", "Meursault", "Gregor", "Outis", "HongLu", "Faust", "Heathcliff", "Ishmael", "Ryoshu", "Sinclair"],
+    "Bleed": ["Don", "YiSang", "Rodya", "Heathcliff", "Ishmael", "Gregor", "HongLu", "Faust", "Meursault", "Outis", "Ryoshu", "Sinclair"],
     "Burn": ["Outis", "Sinclair", "Rodya", "Ishmael", "Meursault", "Ryoshu", "Faust",  "Heathcliff", "Don", "YiSang", "Gregor", "HongLu"],
     "Tremor": ["Ishmael", "Faust", "Heathcliff", "Don", "Outis", "HongLu", "Rodya", "Meursault", "Ryoshu", "YiSang", "Sinclair", "Gregor"]
 }
